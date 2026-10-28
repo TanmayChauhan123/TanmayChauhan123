@@ -1,273 +1,87 @@
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111f,45:064e3b,100:10b981&text=LOOPZERO&fontSize=58&fontColor=ecfdf5&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SYSTEMS%20THINKER%20%7C%20BUILDER&descSize=13&descAlignY=59" alt="LoopZero — developer profile banner" />`{=html}
+# LOOPZERO
 
-`<br/>`{=html}
+### Full-Stack Developer · Systems Thinker · Builder
 
-### `Somewhere between 0 and 1, I exist.`
+> Somewhere between 0 and 1, I exist.\
+> **Building in silence. Dreaming in code.**
 
-**Building in silence. Dreaming in code.**
+[![GitHub](https://img.shields.io/badge/GitHub-TanmayChauhan123-0d1117?style=for-the-badge&logo=github&logoColor=34d399)](https://github.com/TanmayChauhan123) [![Projects](https://img.shields.io/badge/Explore-Projects-064e3b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanmayChauhan123?tab=repositories)
 
-[![GitHub](https://img.shields.io/badge/GitHub-TanmayChauhan123-0d1117?style=flat-square&logo=github&logoColor=34d399)](https://github.com/TanmayChauhan123)
-[![Portfolio](https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-0d1117?style=flat-square&logo=gnometerminal&logoColor=22d3ee)](https://github.com/TanmayChauhan123?tab=repositories)
-[![Profile
-views](https://komarev.com/ghpvc/?username=TanmayChauhan123&style=flat-square&color=065f46&label=PROFILE+VIEWS)](https://github.com/TanmayChauhan123)
-:::
+![LoopZero banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:07111f,45:064e3b,100:10b981&section=footer)
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-`DESIGN` ━━━ `BUILD` ━━━ `DEBUG` ━━━ `SHIP`
-:::
 
 ## `whoami`
 
-Hi, I'm **Tanmay Chauhan**, the developer behind **LoopZero**. I like
-building software that goes beyond a demo: products with real workflows,
-thoughtful architecture, and room to grow.
+Hi, I'm **Tanmay Chauhan**, the developer behind **LoopZero**. I enjoy building practical software, understanding how systems work end to end, and learning by shipping real projects.
 
--   🔧 **Building:** full-stack applications, backend systems, and
-    developer tools.
--   🤖 **Exploring:** applied AI, retrieval-augmented generation, and
-    local LLM workflows.
--   🧩 **Practising:** data structures, algorithms, and writing cleaner
-    solutions.
--   🎯 **Principle:** make it work, understand why, then make it better.
+-   🔧 Building full-stack applications and backend systems.
+-   🤖 Exploring applied AI, retrieval-augmented generation, and local LLM workflows.
+-   🧩 Practising data structures, algorithms, and problem-solving.
+-   🎯 My approach: build it, understand it, improve it.
 
-------------------------------------------------------------------------
+## `tech stack`
 
-## `stack --list`
+**Languages**
 
-::: {align="center"}
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center" width="33%">
-```
-**01 · LANGUAGES**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-`<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" alt="C++, JavaScript, TypeScript, Python" />`{=html}
+**Frontend and Backend**
 
-```{=html}
-</td>
-```
-```{=html}
-<td align="center" width="33%">
-```
-**02 · APPLICATIONS**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-`<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,nestjs&theme=dark" alt="React, Vite, Node.js, Express, NestJS" />`{=html}
+**Databases and Tools**
 
-```{=html}
-</td>
-```
-```{=html}
-<td align="center" width="33%">
-```
-**03 · DATA & TOOLING**
-
-`<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,vscode&theme=dark" alt="MongoDB, PostgreSQL, Git, GitHub, Docker, VS Code" />`{=html}
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
-:::
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ------------------------------------------------------------------------
 
-## `projects --featured`
+## `featured projects`
 
-::: {align="center"}
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/TanmayChauhan123/QueueLess">`{=html}
-`<img src="https://img.shields.io/badge/01-QUEUELESS-064e3b?style=for-the-badge&labelColor=0d1117" alt="QueueLess" />`{=html}
-`</a>`{=html}
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Project                                                               What I'm building                                                                                                  Stack
+  --------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------ ---------------------------------------
+  [⚡ QueueLess](https://github.com/TanmayChauhan123/QueueLess)         Real-time queue and appointment management with queue tracking and estimated waiting times.                        `React` `TypeScript` `NestJS`
 
-### Real-time queue management
+  [🔄 DevSync](https://github.com/TanmayChauhan123/DevSync)             Collaborative developer workspace concept with team workspaces, Kanban boards, chat, and AI-assisted workflows.    `React` `TypeScript` `Express`
 
-Appointment and digital queue platform designed around live queue
-tracking, estimated wait times, and smoother service workflows.
+  [♟️ ChessArena](https://github.com/TanmayChauhan123/ChessArena)       Real-time multiplayer chess exploring server-side move validation, spectator features, and player ratings.         `React` `Node.js` `Socket.IO`
 
-`React` `TypeScript` `NestJS`
+  [🎙️ PrepForge](https://github.com/TanmayChauhan123/PrepForge)         Interview preparation platform with authentication, interview sessions, saved answers, and AI integration plans.   `MongoDB` `Express` `React` `Node.js`
 
-**Focus:** real-time product workflows
+  [🧠 RAG-Pilot](https://github.com/TanmayChauhan123/RAG-Pilot)         Experimental RAG system exploring query-complexity routing and retrieval strategies.                               `Python` `Streamlit` `FAISS`
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/TanmayChauhan123/DevSync">`{=html}
-`<img src="https://img.shields.io/badge/02-DEVSYNC-164e63?style=for-the-badge&labelColor=0d1117" alt="DevSync" />`{=html}
-`</a>`{=html}
+  [📊 InsightPulse](https://github.com/TanmayChauhan123/InsightPulse)   ML project exploring student-performance prediction, explainability, RAG, and local language-model workflows.      `Python` `ML` `RAG`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Collaborative developer workspace
-
-A workspace concept for team collaboration, Kanban boards, chat, and
-AI-assisted development workflows.
-
-`React` `TypeScript` `Express`
-
-**Focus:** collaboration and productivity
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/TanmayChauhan123/ChessArena">`{=html}
-`<img src="https://img.shields.io/badge/03-CHESSARENA-312e81?style=for-the-badge&labelColor=0d1117" alt="ChessArena" />`{=html}
-`</a>`{=html}
-
-### Multiplayer chess platform
-
-A real-time chess experience exploring multiplayer rooms, server-side
-move validation, spectator features, and player ratings.
-
-`React` `Node.js` `Socket.IO`
-
-**Focus:** real-time networking and game logic
-
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/TanmayChauhan123/PrepForge">`{=html}
-`<img src="https://img.shields.io/badge/04-PREPFORGE-713f12?style=for-the-badge&labelColor=0d1117" alt="PrepForge" />`{=html}
-`</a>`{=html}
-
-### AI interview preparation
-
-An interview practice platform with authentication, interview sessions,
-saved answers, and a foundation for AI-generated questions and feedback.
-
-`MongoDB` `Express` `React` `Node.js`
-
-**Focus:** AI-assisted learning workflows
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/TanmayChauhan123/RAG-Pilot">`{=html}
-`<img src="https://img.shields.io/badge/05-RAG--PILOT-3f3f46?style=for-the-badge&labelColor=0d1117" alt="RAG-Pilot" />`{=html}
-`</a>`{=html}
-
-### Adaptive retrieval-augmented generation
-
-An experimental RAG system exploring query-complexity routing and
-retrieval strategies for different information needs.
-
-`Python` `Streamlit` `FAISS`
-
-**Focus:** retrieval pipelines and applied AI
-
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<a href="https://github.com/TanmayChauhan123/InsightPulse">`{=html}
-`<img src="https://img.shields.io/badge/06-INSIGHTPULSE-831843?style=for-the-badge&labelColor=0d1117" alt="InsightPulse" />`{=html}
-`</a>`{=html}
-
-### Explainable student-performance insights
-
-An ML project exploring student performance prediction, explainability,
-RAG, and local language-model workflows.
-
-`Python` `ML` `RAG`
-
-**Focus:** interpretable, AI-powered insights
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
-`<br/>`{=html}
-
-`<a href="https://github.com/TanmayChauhan123?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=34d399" alt="Explore all repositories" />`{=html}
-`</a>`{=html}
-:::
+**Explore more:** [All repositories →](https://github.com/TanmayChauhan123?tab=repositories)
 
 ------------------------------------------------------------------------
 
-## `activity --overview`
+## `github analytics`
 
-::: {align="center"}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanmayChauhan123&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=34d399&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub statistics" />`{=html}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayChauhan123&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9" alt="Most used languages" />`{=html}
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=TanmayChauhan123&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=34d399&icon_color=22d3ee&text_color=c9d1d9)
 
-`<br/>`{=html}`<br/>`{=html}
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayChauhan123&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9)
 
-`<img width="70%" src="https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=0D1117&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />`{=html}
-:::
+![GitHub contribution streak](https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=0D1117&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E)
 
 ------------------------------------------------------------------------
 
-## `currently --building`
+## `current focus`
 
 ``` text
-┌─ LOOPZERO / BUILD LOG ─────────────────────────────┐
-│  [01] Shipping full-stack product features         │
-│  [02] Improving backend architecture and APIs      │
-│  [03] Exploring practical AI / RAG integrations    │
-│  [04] Practising DSA and refining problem solving  │
-└────────────────────────────────────────────────────┘
+LOOPZERO / BUILD LOG
+[01] Shipping full-stack product features
+[02] Improving backend architecture and APIs
+[03] Exploring practical AI and RAG integrations
+[04] Practising DSA and refining problem-solving
 ```
 
-## `find-me`
+------------------------------------------------------------------------
 
-::: {align="center"}
-[![Repositories](https://img.shields.io/badge/Explore-Projects-065f46?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanmayChauhan123?tab=repositories)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
+**DESIGN · BUILD · DEBUG · SHIP**
 
-`<br/>`{=html}
+[Explore my repositories](https://github.com/TanmayChauhan123?tab=repositories)
 
-`<sub>`{=html}Thanks for stopping by. Keep building things worth
-learning from.`</sub>`{=html}
-
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,55:064e3b,100:07111f&height=90&section=footer" alt="" />`{=html}
-:::
+`<sub>`{=html}Thanks for stopping by. Keep building things worth learning from.`</sub>`{=html}
