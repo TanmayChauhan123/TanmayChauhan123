@@ -1,15 +1,15 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Tanmay%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20turn%20coffee%20into%20code%20%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB&descSize=18&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2a0a,100:39FF14&height=220&section=header&text=Tanmay%20Chauhan&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=36&desc=I%20turn%20coffee%20into%20code%20%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB&descSize=18&descAlignY=58" alt="header" />
 
   <a href="https://github.com/TanmayChauhan123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I+build+AI+things+that+(mostly)+work;It+works+on+my+machine+%E2%9C%85;Currently+arguing+with+a+local+LLM+%F0%9F%A4%96" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I+build+AI+things+that+(mostly)+work;It+works+on+my+machine+%E2%9C%85;Currently+arguing+with+a+local+LLM+%F0%9F%A4%96" alt="typing" />
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=Visitors&color=1f6feb&style=for-the-badge" />
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+    <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
+    <img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=Visitors&color=39ff14&style=for-the-badge" />
   </p>
 </div>
 
@@ -35,11 +35,11 @@ Fueled by chai, stubbornness, and an unreasonable number of browser tabs.
 <summary><b>🏅 Official certifications</b></summary>
 <br>
 
-![Works on my machine](https://img.shields.io/badge/Works_on-My_Machine-2ea44f?style=for-the-badge)
-![Powered by](https://img.shields.io/badge/Powered_by-Coffee-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-![Deploys on](https://img.shields.io/badge/Deploys_on-Fridays-red?style=for-the-badge)
-![Bugs](https://img.shields.io/badge/Bugs-Features_in_disguise-orange?style=for-the-badge)
-![Stack Overflow](https://img.shields.io/badge/Copied_from-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![Works on my machine](https://img.shields.io/badge/Works_on-My_Machine-39FF14?style=for-the-badge&labelColor=000000)
+![Powered by](https://img.shields.io/badge/Powered_by-Coffee-39FF14?style=for-the-badge&logo=buymeacoffee&logoColor=39FF14&labelColor=000000)
+![Deploys on](https://img.shields.io/badge/Deploys_on-Fridays-39FF14?style=for-the-badge&labelColor=000000)
+![Bugs](https://img.shields.io/badge/Bugs-Features_in_disguise-39FF14?style=for-the-badge&labelColor=000000)
+![Stack Overflow](https://img.shields.io/badge/Copied_from-Stack_Overflow-39FF14?style=for-the-badge&logo=stackoverflow&logoColor=39FF14&labelColor=000000)
 
 </details>
 
@@ -49,19 +49,19 @@ Fueled by chai, stubbornness, and an unreasonable number of browser tabs.
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-39FF14?style=for-the-badge&logo=typescript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=000000)
+![React](https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind-39FF14?style=for-the-badge&logo=tailwindcss&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=000000)
+![Express](https://img.shields.io/badge/Express-39FF14?style=for-the-badge&logo=express&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-39FF14?style=for-the-badge&logo=mongodb&logoColor=000000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-39FF14?style=for-the-badge&logo=scikitlearn&logoColor=000000)
+![Ollama](https://img.shields.io/badge/Ollama-39FF14?style=for-the-badge&logo=ollama&logoColor=000000)
+![Gemini](https://img.shields.io/badge/Gemini-39FF14?style=for-the-badge&logo=googlegemini&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=000000)
+![GitHub Actions](https://img.shields.io/badge/Actions-39FF14?style=for-the-badge&logo=githubactions&logoColor=000000)
 
 </div>
 
@@ -160,18 +160,26 @@ Friday night bug. At least the pain has a deadline. 😭
 <br>
 
 ```mermaid
+%%{init: {'theme':'base','flowchart':{'curve':'basis','nodeSpacing':40,'rankSpacing':45},'themeVariables':{'fontFamily':'monospace','fontSize':'15px','lineColor':'#39FF14','edgeLabelBackground':'#000000','textColor':'#39FF14'}}}%%
 flowchart TD
-    A[Bug appears 🐛] --> B{Is it my code?}
-    B -->|No, obviously| C[Blame the cache]
-    C --> D[Clear the cache]
-    D --> E{Fixed?}
-    E -->|Nope| F[Add console.log everywhere]
-    F --> G[Stare at the screen]
-    G --> H[Ask the rubber duck 🦆]
-    H --> I[Find a typo 🤦]
-    B -->|...maybe| I
-    E -->|Somehow yes| J[Ship it 🚀]
+    A(["🐛 BUG APPEARS"]):::bug --> B{"Is it my code?"}:::decision
+    B -->|"No, obviously"| C["🧹 Blame the cache"]:::step
+    C --> D["Clear the cache"]:::step
+    D --> E{"Fixed?"}:::decision
+    E -->|"Nope"| F["📝 console.log EVERYWHERE"]:::step
+    F --> G["👀 Stare at the screen"]:::step
+    G --> H["🦆 Ask the rubber duck"]:::funny
+    H --> I["🤦 Find a typo"]:::funny
+    B -->|"...maybe"| I
+    E -->|"Somehow yes"| J(["🚀 SHIP IT"]):::ship
     I --> J
+
+    classDef bug fill:#ff2e4d,stroke:#ffffff,stroke-width:3px,color:#ffffff,font-weight:bold
+    classDef decision fill:#000000,stroke:#39FF14,stroke-width:3px,color:#39FF14,font-weight:bold
+    classDef step fill:#0a0a0a,stroke:#39FF14,stroke-width:2px,color:#ffffff
+    classDef funny fill:#1a1500,stroke:#ffe600,stroke-width:3px,color:#ffe600,font-weight:bold
+    classDef ship fill:#39FF14,stroke:#ffffff,stroke-width:3px,color:#000000,font-weight:bold
+    linkStyle default stroke:#39FF14,stroke-width:2.5px
 ```
 
 </details>
@@ -181,10 +189,10 @@ flowchart TD
 <br>
 
 ```
-☕ Coffee level      [██████████░░]  85%
-🐛 Bugs fixed        [████████░░░░]  70%
-🧠 Brain cells       [█████░░░░░░░]  42%
-😴 Sleep             [░░░░░░░░░░░░]  404 Not Found
+☕ Coffee level   [##########  ]  85%
+🐛 Bugs fixed     [########    ]  70%
+🧠 Brain cells    [#####       ]  42%
+😴 Sleep          [            ]  404 Not Found
 ```
 
 </details>
@@ -203,10 +211,10 @@ I said don't. Fine, if you insist:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/TanmayChauhan123?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/TanmayChauhan123?style=for-the-badge&logo=github&color=39ff14&labelColor=000000&logoColor=39ff14" />
   <br><br>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanmayChauhan123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-  <img src="https://streak-stats.demolab.com?user=TanmayChauhan123&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanmayChauhan123&show_icons=true&theme=github_dark&hide_border=false&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" />
+  <img src="https://streak-stats.demolab.com?user=TanmayChauhan123&background=000000&ring=39FF14&fire=39FF14&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=39FF14" />
 </div>
 
 ---
@@ -222,5 +230,5 @@ Open to internships, collabs, and bad puns. 🙌
 
 <div align="center">
   <sub>⭐ A star makes my commit history feel less lonely.</sub>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2a0a,100:39FF14&height=120&section=footer" alt="footer" />
 </div>
