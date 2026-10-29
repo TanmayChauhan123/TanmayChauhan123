@@ -86,12 +86,19 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 <img src="assets/section-telemetry.svg" width="100%" alt="github telemetry"/>
 
 <div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=TanmayChauhan123&show_icons=true&hide_border=false&border_color=166534&rank_icon=github&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayChauhan123&layout=compact&hide_border=false&border_color=166534&bg_color=050505&title_color=39FF14&text_color=FFFFFF" alt="Most used languages"/>
-<br>
-<img width="70%" src="https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=050505&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=FFFFFF&longestStreakNum=FFFFFF&totalNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub contribution streak"/>
-<br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChauhan123&bg_color=050505&color=FFFFFF&line=39FF14&point=FFFFFF&area=true&area_color=39FF14&hide_border=true&title_color=39FF14" alt="Contribution activity graph"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=TanmayChauhan123&show_icons=true&hide_border=true&rank_icon=github&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayChauhan123&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=FFFFFF" alt="Most used languages"/>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=050505&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChauhan123&bg_color=050505&color=FFFFFF&line=39FF14&point=39FF14&area=true&hide_border=true" alt="Contribution activity graph"/>
+
 </div>
 
 <br>
