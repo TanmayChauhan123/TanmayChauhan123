@@ -133,8 +133,8 @@ LOOPZERO / CURRENT FOCUS
 
 <div align="center">
 <a href="https://github.com/TanmayChauhan123"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="Follow on GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="Connect on LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email me"/></a>
+<a href="https://www.linkedin.com/in/tanmay-chauhan-388358281/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="Connect on LinkedIn"/></a>
+<a href="mailto:tanmaychauhan2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email me"/></a>
 </div>
 
 <img src="assets/footer.svg" width="100%" alt="Build, test, debug, ship, repeat"/>
