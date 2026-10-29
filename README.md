@@ -97,7 +97,7 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 
 <br/>
 
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChauhan123&theme=github-compact" alt="Contribution activity graph"/>
+ <<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChauhan123&theme=github-compact" alt="Contribution activity graph"/>
 
 </div>
 
