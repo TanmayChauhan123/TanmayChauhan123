@@ -96,9 +96,6 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 <img width="90%" src="https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=050505&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub contribution streak"/>
 
 <br/>
-
- <<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChauhan123&theme=github-compact" alt="Contribution activity graph"/>
-
 </div>
 
 <br>
