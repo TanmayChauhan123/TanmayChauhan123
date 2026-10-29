@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="Core ideas: full-stack, AI builder, problem solver, real-time"><defs><filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="6"/></filter><linearGradient id="seg" x1="0" x2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset=".5" stop-color="#39ff14"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></linearGradient><linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset=".5" stop-color="#39ff14" stop-opacity=".28"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></linearGradient></defs><style>text{font-family:'Fira Code','JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style><rect width="1200" height="250" fill="#050505"/>
+<rect x="20.0" y="10" width="270" height="230" rx="16" fill="#080d08" stroke="#39ff14" stroke-opacity=".45" stroke-width="2"/>
+<rect x="20.0" y="10" width="270" height="230" rx="16" fill="none" stroke="#39ff14" stroke-width="3" stroke-dasharray="110 890">
+ <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+<circle cx="155.0" cy="78" r="42" fill="#0b2e13" stroke="#39ff14" stroke-opacity=".5"/>
+<circle cx="155.0" cy="78" r="42" fill="none" stroke="#39ff14" stroke-width="2"><animate attributeName="r" values="42;62" dur="2.4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<g transform="translate(126.2 49.2) scale(2.4)" fill="none" stroke="#39ff14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/></g>
+<text x="155.0" y="160" text-anchor="middle" font-size="23" font-weight="700" fill="#ffffff">FULL-STACK</text>
+<text x="155.0" y="192" text-anchor="middle" font-size="14.5" fill="#d0d7de">React · Node · TypeScript</text>
+<rect x="130.0" y="212" width="50" height="4" rx="2" fill="#39ff14"/>
+<rect x="316.6666666666667" y="10" width="270" height="230" rx="16" fill="#080d08" stroke="#39ff14" stroke-opacity=".45" stroke-width="2"/>
+<rect x="316.6666666666667" y="10" width="270" height="230" rx="16" fill="none" stroke="#39ff14" stroke-width="3" stroke-dasharray="110 890">
+ <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5s" begin="0.5s" repeatCount="indefinite"/></rect>
+<circle cx="451.6666666666667" cy="78" r="42" fill="#0b2e13" stroke="#39ff14" stroke-opacity=".5"/>
+<circle cx="451.6666666666667" cy="78" r="42" fill="none" stroke="#39ff14" stroke-width="2"><animate attributeName="r" values="42;62" dur="2.4s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="0.5s" repeatCount="indefinite"/></circle>
+<g transform="translate(422.8666666666667 49.2) scale(2.4)" fill="none" stroke="#39ff14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="6" width="12" height="12" rx="2"/><rect x="9.5" y="9.5" width="5" height="5"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/></g>
+<text x="451.6666666666667" y="160" text-anchor="middle" font-size="23" font-weight="700" fill="#ffffff">AI BUILDER</text>
+<text x="451.6666666666667" y="192" text-anchor="middle" font-size="14.5" fill="#d0d7de">RAG · Ollama · scikit-learn</text>
+<rect x="426.6666666666667" y="212" width="50" height="4" rx="2" fill="#39ff14"/>
+<rect x="613.3333333333334" y="10" width="270" height="230" rx="16" fill="#080d08" stroke="#39ff14" stroke-opacity=".45" stroke-width="2"/>
+<rect x="613.3333333333334" y="10" width="270" height="230" rx="16" fill="none" stroke="#39ff14" stroke-width="3" stroke-dasharray="110 890">
+ <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5s" begin="1.0s" repeatCount="indefinite"/></rect>
+<circle cx="748.3333333333334" cy="78" r="42" fill="#0b2e13" stroke="#39ff14" stroke-opacity=".5"/>
+<circle cx="748.3333333333334" cy="78" r="42" fill="none" stroke="#39ff14" stroke-width="2"><animate attributeName="r" values="42;62" dur="2.4s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<g transform="translate(719.5333333333334 49.2) scale(2.4)" fill="none" stroke="#39ff14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2"/><circle cx="6" cy="13" r="2"/><circle cx="18" cy="13" r="2"/><circle cx="12" cy="20" r="2"/><path d="M11 6.7L7 11.3M13 6.7L17 11.3M7 14.7L11 18.3"/></g>
+<text x="748.3333333333334" y="160" text-anchor="middle" font-size="23" font-weight="700" fill="#ffffff">PROBLEM SOLVER</text>
+<text x="748.3333333333334" y="192" text-anchor="middle" font-size="14.5" fill="#d0d7de">DSA · C++ · Algorithms</text>
+<rect x="723.3333333333334" y="212" width="50" height="4" rx="2" fill="#39ff14"/>
+<rect x="910.0" y="10" width="270" height="230" rx="16" fill="#080d08" stroke="#39ff14" stroke-opacity=".45" stroke-width="2"/>
+<rect x="910.0" y="10" width="270" height="230" rx="16" fill="none" stroke="#39ff14" stroke-width="3" stroke-dasharray="110 890">
+ <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<circle cx="1045.0" cy="78" r="42" fill="#0b2e13" stroke="#39ff14" stroke-opacity=".5"/>
+<circle cx="1045.0" cy="78" r="42" fill="none" stroke="#39ff14" stroke-width="2"><animate attributeName="r" values="42;62" dur="2.4s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="1.5s" repeatCount="indefinite"/></circle>
+<g transform="translate(1016.2 49.2) scale(2.4)" fill="none" stroke="#39ff14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L4 14h7l-1 8 9-12h-7z"/></g>
+<text x="1045.0" y="160" text-anchor="middle" font-size="23" font-weight="700" fill="#ffffff">REAL-TIME</text>
+<text x="1045.0" y="192" text-anchor="middle" font-size="14.5" fill="#d0d7de">Sockets · Live queues · Chat</text>
+<rect x="1020.0" y="212" width="50" height="4" rx="2" fill="#39ff14"/></svg>

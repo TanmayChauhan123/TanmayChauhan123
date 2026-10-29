@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Tanmay Chauhan, Full-Stack Developer, AI Builder, Problem Solver"><defs><filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="6"/></filter><linearGradient id="seg" x1="0" x2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset=".5" stop-color="#39ff14"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></linearGradient><linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset=".5" stop-color="#39ff14" stop-opacity=".28"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#39ff14" stroke-opacity=".09"/></pattern>
+<radialGradient id="rg" cx=".5" cy=".5" r=".6"><stop offset="0" stop-color="#39ff14" stop-opacity=".2"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></radialGradient></defs><style>text{font-family:'Fira Code','JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
+<rect width="1200" height="320" fill="#050505"/><rect width="1200" height="320" fill="url(#grid)"/>
+<ellipse cx="600" cy="150" rx="540" ry="150" fill="url(#rg)"/>
+<rect x="-240" y="0" width="240" height="320" fill="url(#scan)"><animate attributeName="x" from="-240" to="1200" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="10" y="10" width="1180" height="300" rx="16" fill="none" stroke="#39ff14" stroke-opacity=".7" stroke-width="2" stroke-dasharray="14 10">
+ <animate attributeName="stroke-dashoffset" from="0" to="-96" dur="3s" repeatCount="indefinite"/></rect>
+<text x="90" y="100" font-size="44" fill="#39ff14" fill-opacity=".55" font-weight="700">&lt;/&gt;<animate attributeName="y" values="100;88;100" dur="4s" repeatCount="indefinite"/></text>
+<text x="1060" y="120" font-size="44" fill="#39ff14" fill-opacity=".55" font-weight="700">{ }<animate attributeName="y" values="120;132;120" dur="5s" repeatCount="indefinite"/></text>
+<text x="130" y="260" font-size="34" fill="#39ff14" fill-opacity=".4" font-weight="700">01<animate attributeName="fill-opacity" values=".15;.6;.15" dur="2s" repeatCount="indefinite"/></text>
+<text x="1020" y="262" font-size="34" fill="#39ff14" fill-opacity=".4" font-weight="700">10<animate attributeName="fill-opacity" values=".6;.15;.6" dur="2s" repeatCount="indefinite"/></text>
+<text x="600" y="152" text-anchor="middle" font-size="80" font-weight="700" fill="#39ff14" filter="url(#glow)" opacity=".85">TANMAY CHAUHAN</text>
+<text x="600" y="152" text-anchor="middle" font-size="80" font-weight="700" fill="#ffffff">TANMAY CHAUHAN</text>
+<text x="600" y="205" text-anchor="middle" font-size="24" font-weight="700" fill="#39ff14" letter-spacing="3">FULL-STACK DEVELOPER  //  AI BUILDER  //  PROBLEM SOLVER</text>
+<rect x="350" y="222" width="500" height="3" rx="1.5" fill="#39ff14" fill-opacity=".25"/>
+<rect x="350" y="222" width="140" height="3" rx="1.5" fill="url(#seg)"><animate attributeName="x" from="350" to="710" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="600" y="268" text-anchor="middle" font-size="22" fill="#e6edf3">&gt; ./build --ship --repeat<tspan fill="#39ff14">_</tspan>
+ <animate attributeName="opacity" values="1;1;.55;1" dur="1.2s" repeatCount="indefinite"/></text>
+</svg>
