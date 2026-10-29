@@ -4,6 +4,5 @@
 <rect x="8" y="8" width="52" height="52" rx="10" fill="#39ff14" opacity="0"><animate attributeName="opacity" values="0;.22;0" dur="2.4s" repeatCount="indefinite"/></rect>
 <g transform="translate(12.4 12.4) scale(1.8)" fill="none" stroke="#39ff14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></g>
 <text x="80" y="46" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="1">COMMIT HEATMAP</text>
-<text x="1190" y="44" text-anchor="end" font-size="18" fill="#c9d1d9">// the snake is hungry</text>
 <rect x="0" y="70" width="1200" height="2" fill="#39ff14" fill-opacity=".25"/>
 <rect x="0" y="67" width="200" height="8" fill="url(#seg)"><animate attributeName="x" from="-200" to="1200" dur="3.5s" repeatCount="indefinite"/></rect></svg>
