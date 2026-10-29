@@ -12,9 +12,9 @@
 <text x="1020" y="262" font-size="34" fill="#39ff14" fill-opacity=".4" font-weight="700">10<animate attributeName="fill-opacity" values=".6;.15;.6" dur="2s" repeatCount="indefinite"/></text>
 <text x="600" y="152" text-anchor="middle" font-size="80" font-weight="700" fill="#39ff14" filter="url(#glow)" opacity=".85">TANMAY CHAUHAN</text>
 <text x="600" y="152" text-anchor="middle" font-size="80" font-weight="700" fill="#ffffff">TANMAY CHAUHAN</text>
-<text x="600" y="205" text-anchor="middle" font-size="24" font-weight="700" fill="#39ff14" letter-spacing="3">FULL-STACK DEVELOPER  //  AI BUILDER  //  PROBLEM SOLVER</text>
+<text x="600" y="205" text-anchor="middle" font-size="24" font-weight="700" fill="#39ff14" letter-spacing="3">FULL-STACK DEVELOPER   |  AI BUILDER  |  PROBLEM SOLVER</text>
 <rect x="350" y="222" width="500" height="3" rx="1.5" fill="#39ff14" fill-opacity=".25"/>
 <rect x="350" y="222" width="140" height="3" rx="1.5" fill="url(#seg)"><animate attributeName="x" from="350" to="710" dur="2.4s" repeatCount="indefinite"/></rect>
-<text x="600" y="268" text-anchor="middle" font-size="22" fill="#e6edf3">&gt; ./build --ship --repeat<tspan fill="#39ff14">_</tspan>
+<text x="600" y="268" text-anchor="middle" font-size="22" fill="#e6edf3">&gt; ideas → architecture → execution<tspan fill="#39ff14">_</tspan>
  <animate attributeName="opacity" values="1;1;.55;1" dur="1.2s" repeatCount="indefinite"/></text>
 </svg>
