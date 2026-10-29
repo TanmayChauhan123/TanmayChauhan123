@@ -87,9 +87,9 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=TanmayChauhan123&show_icons=true&hide_border=true&rank_icon=github&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="GitHub statistics"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanmayChauhan123&theme=github_dark" alt="GitHub statistics"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayChauhan123&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=FFFFFF" alt="Most used languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanmayChauhan123&theme=github_dark" alt="Most used languages"/>
 
 <br/>
 
@@ -97,7 +97,7 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChauhan123&bg_color=050505&color=FFFFFF&line=39FF14&point=39FF14&area=true&hide_border=true" alt="Contribution activity graph"/>
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChauhan123&theme=github-compact" alt="Contribution activity graph"/>
 
 </div>
 
