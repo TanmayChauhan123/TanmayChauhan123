@@ -1,9 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 76" width="1200" height="76" role="img" aria-label="BUILD LOG"><defs><filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="6"/></filter><linearGradient id="seg" x1="0" x2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset=".5" stop-color="#39ff14"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></linearGradient><linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset=".5" stop-color="#39ff14" stop-opacity=".28"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></linearGradient></defs><style>text{font-family:'Fira Code','JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
-<rect width="1200" height="76" fill="#050505"/>
-<rect x="8" y="8" width="52" height="52" rx="10" fill="#0b2e13" stroke="#39ff14" stroke-width="2"/>
-<rect x="8" y="8" width="52" height="52" rx="10" fill="#39ff14" opacity="0"><animate attributeName="opacity" values="0;.22;0" dur="2.4s" repeatCount="indefinite"/></rect>
-<g transform="translate(12.4 12.4) scale(1.8)" fill="none" stroke="#39ff14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h16M4 18h10"/></g>
-<text x="80" y="46" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="1">BUILD LOG</text>
-<text x="1190" y="44" text-anchor="end" font-size="18" fill="#c9d1d9">// current focus</text>
-<rect x="0" y="70" width="1200" height="2" fill="#39ff14" fill-opacity=".25"/>
-<rect x="0" y="67" width="200" height="8" fill="url(#seg)"><animate attributeName="x" from="-200" to="1200" dur="3.5s" repeatCount="indefinite"/></rect></svg>
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 76" width="1200" height="76" role="img" aria-label="BUILD LOG">
+  <defs>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <linearGradient id="seg" x1="0" x2="1">
+      <stop offset="0" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#39ff14"/>
+      <stop offset="1" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#39ff14" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    text {
+      font-family: 'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Courier New', monospace;
+    }
+  </style>
+
+  <rect width="1200" height="76" fill="#050505"/>
+
+  <rect x="8" y="8" width="52" height="52" rx="10"
+        fill="#0b2e13" stroke="#39ff14" stroke-width="2"/>
+
+  <rect x="8" y="8" width="52" height="52" rx="10"
+        fill="#39ff14" opacity="0">
+    <animate attributeName="opacity" values="0;.22;0"
+             dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(12.4 12.4) scale(1.8)"
+     fill="none" stroke="#39ff14" stroke-width="2"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 6h16M4 12h16M4 18h10"/>
+  </g>
+
+  <text x="80" y="46" font-size="36" font-weight="700"
+        fill="#ffffff" letter-spacing="1">BUILD LOG</text>
+
+  <rect x="0" y="70" width="1200" height="2"
+        fill="#39ff14" fill-opacity=".25"/>
+
+  <rect x="0" y="67" width="200" height="8" fill="url(#seg)">
+    <animate attributeName="x" from="-200" to="1200"
+             dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+```
