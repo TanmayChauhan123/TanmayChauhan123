@@ -47,7 +47,7 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 <div align="center">
 
 **💻 Languages**<br>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark" alt="C++, JavaScript, TypeScript, Python, HTML, CSS"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark"/>
 
 **🎨 Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/>
