@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/banner.svg" width="100%" alt="Tanmay Chauhan - Full-Stack Developer, AI Builder, Problem Solver"/>
 
@@ -69,14 +69,14 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 <img src="assets/section-builds.svg" width="100%" alt="featured builds"/>
 
 <div align="center">
-<a href="https://github.com/TanmayChauhan123/QueueLess"><img src="assets/card-1.svg" width="49%" alt="QueueLess"/></a>
-<a href="https://github.com/TanmayChauhan123/DevSync"><img src="assets/card-2.svg" width="49%" alt="DevSync"/></a>
-<a href="https://github.com/TanmayChauhan123/ChessArena"><img src="assets/card-3.svg" width="49%" alt="ChessArena"/></a>
-<a href="https://github.com/TanmayChauhan123/PrepForge"><img src="assets/card-4.svg" width="49%" alt="PrepForge"/></a>
-<a href="https://github.com/TanmayChauhan123/RAG-Pilot"><img src="assets/card-5.svg" width="49%" alt="RAG-Pilot"/></a>
-<a href="https://github.com/TanmayChauhan123/InsightPulse"><img src="assets/card-6.svg" width="49%" alt="InsightPulse"/></a>
-<a href="https://github.com/TanmayChauhan123/HabitMind"><img src="assets/card-7.svg" width="49%" alt="HabitMind"/></a>
-<a href="https://github.com/TanmayChauhan123/Credit-Card-Fraud-Detection"><img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/></a>
+<img src="assets/card-1.svg" width="49%" alt="QueueLess"/>
+<img src="assets/card-2.svg" width="49%" alt="DevSync"/>
+<img src="assets/card-3.svg" width="49%" alt="ChessArena"/>
+<img src="assets/card-4.svg" width="49%" alt="PrepForge"/>
+<img src="assets/card-5.svg" width="49%" alt="RAG-Pilot"/>
+<img src="assets/card-6.svg" width="49%" alt="InsightPulse"/>
+<img src="assets/card-7.svg" width="49%" alt="HabitMind"/>
+<img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/>
 <br><br>
 <a href="https://github.com/TanmayChauhan123?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-39FF14?style=for-the-badge&logo=github&logoColor=000000" alt="Explore all repositories"/></a>
 </div>
