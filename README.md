@@ -137,4 +137,4 @@ LOOPZERO / CURRENT FOCUS
 <a href="mailto:tanmaychauhan2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email me"/></a>
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Build, test, debug, ship, repeat"/>                           images of toolbox should not have any links to be redirected to
+<img src="assets/footer.svg" width="100%" alt="Build, test, debug, ship, repeat"/>                        
