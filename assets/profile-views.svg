@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40">
+  <rect width="105" height="40" fill="#555555"/>
+  <rect x="105" width="45" height="40" fill="#39FF14"/>
+  <g fill="#000000" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing=".6">
+    <text x="52.5" y="24" text-anchor="middle">PROFILE VIEWS</text>
+    <text x="127.5" y="24" text-anchor="middle" font-size="13">71</text>
+  </g>
+</svg>
