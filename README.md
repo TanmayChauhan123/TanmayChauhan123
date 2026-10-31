@@ -45,23 +45,7 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 <img src="assets/section-toolbox.svg" width="100%" alt="toolbox"/>
 
 <div align="center">
-
-**💻 Languages**<br>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark"/>
-
-**🎨 Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/>
-
-**⚙️ Backend and databases**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres&theme=dark" alt="Node.js, Express, NestJS, MongoDB, PostgreSQL"/>
-
-**🧰 Tools and platforms**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Postman"/>
-
-**🧠 AI and problem solving**<br>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-RAG%20%7C%20Ollama%20%7C%20scikit--learn-111111?style=for-the-badge&logo=python&logoColor=39FF14" alt="AI and machine learning"/>
-<img src="https://img.shields.io/badge/Practising-DSA%20%7C%20Problem%20Solving-111111?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="Data structures and algorithms"/>
-
+  <img src="assets/toolbox.svg" width="100%" alt="Technology Stack"/>
 </div>
 
 <br>
