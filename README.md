@@ -15,7 +15,10 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=39FF14&labelColor=111111&style=for-the-badge" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=39FF14&labelColor=111111&style=for-the-badge"
+  alt="Profile views"
+/>
 
 </div>
 
