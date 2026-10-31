@@ -7,7 +7,7 @@
 <p>
   <a href="https://github.com/TanmayChauhan123"><img src="https://img.shields.io/badge/GitHub-TanmayChauhan123-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/></a>
  <a href="https://www.linkedin.com/in/tanmay-chauhan-388358281/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-111111?style=for-the-badge&logo=simpleicons&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
   <a href="mailto:tanmaychauhan2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/></a>
   <a href="https://YOUR_PORTFOLIO_URL.example"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/></a>
