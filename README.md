@@ -3,16 +3,24 @@
 <img src="assets/banner.svg" width="100%" alt="Tanmay Chauhan - Full-Stack Developer, AI Builder, Problem Solver"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=39FF14&background=050505&center=true&vCenter=true&width=760&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;Building+full-stack+products+and+AI+tools;Turning+ideas+into+working+software;Currently+debugging+something+interesting+%F0%9F%90%9B" alt="Animated typing intro"/>
+<div align="center">
 
-<p>
-  <a href="https://github.com/TanmayChauhan123"><img src="https://img.shields.io/badge/GitHub-TanmayChauhan123-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/></a>
- <a href="https://www.linkedin.com/in/tanmay-chauhan-388358281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
+<a href="https://github.com/TanmayChauhan123">
+  <img src="https://img.shields.io/badge/GITHUB-TANMAYCHAUHAN123-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
 </a>
-  <a href="mailto:tanmaychauhan2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/></a>
-  <a href="https://YOUR_PORTFOLIO_URL.example"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=39ff14&labelColor=111111&style=for-the-badge" alt="Profile views"/>
-</p>
+<a href="https://www.linkedin.com/in/tanmay-chauhan-388358281/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
+</a>
+<a href="mailto:tanmaychauhan2005@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
+</a>
+<a href="https://YOUR_PORTFOLIO_URL.example">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111111?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=39FF14&labelColor=111111&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 <img src="assets/pillars.svg" width="100%" alt="Core ideas: Full-Stack, AI Builder, Problem Solver, Real-Time"/>
 
