@@ -6,16 +6,16 @@
 <div align="center">
 
 <a href="https://github.com/TanmayChauhan123">
-  <img src="https://img.shields.io/badge/GITHUB-TANMAYCHAUHAN123-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+  <img src="assets/github-badge.svg" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/tanmay-chauhan-388358281/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
+  <img src="assets/linkedin-badge.svg" alt="LinkedIn"/>
 </a>
 <a href="mailto:tanmaychauhan2005@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
+  <img src="assets/email-badge.svg" alt="Email"/>
 </a>
-<a href="https://YOUR_PORTFOLIO_URL.example">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111111?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="assets/portfolio-badge.svg" alt="Portfolio"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=39FF14&labelColor=111111&style=for-the-badge" alt="Profile views"/>
