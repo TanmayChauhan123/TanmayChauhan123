@@ -144,9 +144,21 @@ LOOPZERO / CURRENT FOCUS
 <img src="assets/section-connect.svg" width="100%" alt="connect"/>
 
 <div align="center">
-<a href="https://github.com/TanmayChauhan123"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="Follow on GitHub"/></a>
-<a href="https://www.linkedin.com/in/tanmay-chauhan-388358281/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="Connect on LinkedIn"/></a>
-<a href="mailto:tanmaychauhan2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email me"/></a>
+
+<a href="https://github.com/TanmayChauhan123">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanmay-chauhan-388358281/">
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:tanmaychauhan2005@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" alt="Email"/>
+</a>
+
 </div>
+
+<img src="assets/footer.svg" width="100%" alt="Build, test, debug, ship, repeat"/>
 
 <img src="assets/footer.svg" width="100%" alt="Build, test, debug, ship, repeat"/>                        
