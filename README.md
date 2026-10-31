@@ -94,8 +94,7 @@ I'm **Tanmay Chauhan**, a developer who turns caffeine, curiosity, and questiona
 <img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/>
 <br><br>
 <a href="https://github.com/TanmayChauhan123?tab=repositories">
-  <img src="assets/explore-repositories.svg"
-       alt="Explore all repositories"/>
+  <img src="assets/explore-repositories.svg" alt="Explore all repositories"/>
 </a>
 </div>
 
