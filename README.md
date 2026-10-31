@@ -93,7 +93,10 @@ I'm **Tanmay Chauhan**, a developer who turns caffeine, curiosity, and questiona
 <img src="assets/card-7.svg" width="49%" alt="HabitMind"/>
 <img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/>
 <br><br>
-<a href="https://github.com/TanmayChauhan123?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-39FF14?style=for-the-badge&logo=github&logoColor=000000" alt="Explore all repositories"/></a>
+<a href="https://github.com/TanmayChauhan123?tab=repositories">
+  <img src="assets/explore-repositories.svg"
+       alt="Explore all repositories"/>
+</a>
 </div>
 
 <br>
