@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="assets/banner.svg" width="100%" alt="Tanmay Chauhan - Full-Stack Developer, AI Builder, Problem Solver"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=39FF14&background=050505&center=true&vCenter=true&width=760&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;Building+full-stack+products+and+AI+tools;Turning+ideas+into+working+software;Currently+debugging+something+interesting+%F0%9F%90%9B" alt="Animated typing intro"/>
+<div align="center">
+
 <a href="https://github.com/TanmayChauhan123">
   <img src="assets/github-badge.svg" width="165" height="30" alt="GitHub"/>
 </a>
