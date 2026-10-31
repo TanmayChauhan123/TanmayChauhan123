@@ -35,23 +35,23 @@
 
 <img src="assets/section-whoami.svg" width="100%" alt="whoami"/>
 
-I'm **Tanmay Chauhan**, a developer who enjoys building useful products, exploring AI, and learning how software works from frontend to backend.
+I'm **Tanmay Chauhan**, a developer who turns caffeine, curiosity, and questionable debugging decisions into working software.
 
-- ⚡ **Full-stack:** building applications and real-time experiences.
-- 🤖 **AI:** exploring RAG, local LLMs, and practical AI integrations.
-- 🧩 **Problem solving:** practising data structures, algorithms, and logic.
-- 🛠️ **Craft:** learning by building, debugging, shipping, and iterating.
+- ⚡ **Full-stack:** Making frontend and backend pretend to get along.
+- 🤖 **AI:** Teaching machines to do things I haven't figured out myself.
+- 🧩 **Problem solving:** Collecting DSA problems like unfinished side quests.
+- 🛠️ **Craft:** Breaking things, fixing them, and calling it development.
 
-> `BUILD → TEST → DEBUG → SHIP → REPEAT`
+> `IT WORKS ON MY MACHINE. SHIPPING ANYWAY.`
 
 <details>
 <summary><b>🔎 More about me</b></summary>
 <br>
 
-- 🌱 **Currently exploring:** AI-assisted workflows, backend architecture, and system design
-- 🤝 **Interested in:** open-source projects, internships, and collaborative builds
-- 💬 **Ask me about:** React, Node.js, TypeScript, APIs, and my projects
-- 🎯 **Current goal:** turning side projects into polished, production-minded applications
+- 🌱 **Currently exploring:** New technologies and old debugging mistakes
+- 🤝 **Interested in:** Open source, internships, and building cool stuff
+- 💬 **Ask me about:** React, Node.js, APIs, and why my code works
+- 🎯 **Current mission:** Turning caffeine into commits and ideas into products
 
 </details>
 
@@ -61,19 +61,19 @@ I'm **Tanmay Chauhan**, a developer who enjoys building useful products, explori
 
 <div align="center">
 
-**💻 Languages**<br>
+**💻 Languages I Speak (Mostly to Computers)**<br>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark"/>
 
-**🎨 Frontend**<br>
+**🎨 Making Pixels Behave**<br>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/>
 
-**⚙️ Backend and databases**<br>
+**⚙️ Behind the Scenes**<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres&theme=dark" alt="Node.js, Express, NestJS, MongoDB, PostgreSQL"/>
 
-**🧰 Tools and platforms**<br>
+**🧰 My Digital Toolbox**<br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Postman"/>
 
-**🧠 AI and problem solving**<br>
+**🧠 Teaching Machines & Fighting Problems**<br>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-RAG%20%7C%20Ollama%20%7C%20scikit--learn-111111?style=for-the-badge&logo=python&logoColor=39FF14" alt="AI and machine learning"/>
 <img src="https://img.shields.io/badge/Practising-DSA%20%7C%20Problem%20Solving-111111?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="Data structures and algorithms"/>
 
