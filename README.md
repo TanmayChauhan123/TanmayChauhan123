@@ -132,11 +132,11 @@ I'm **Tanmay Chauhan**, a developer who turns caffeine, curiosity, and questiona
 <img src="assets/section-buildlog.svg" width="100%" alt="build log"/>
 
 ```text
-LOOPZERO / CURRENT FOCUS
-[01] Shipping polished full-stack features
-[02] Strengthening backend design and API reliability
-[03] Experimenting with RAG and local AI workflows
-[04] Practising DSA and improving problem-solving
+LOOPZERO / SIDE QUESTS
+[01] Making features work (eventually)
+[02] Fighting bugs that weren't there yesterday
+[03] Teaching LLMs to follow instructions
+[04] Solving DSA problems instead of sleeping
 ```
 
 <br>
