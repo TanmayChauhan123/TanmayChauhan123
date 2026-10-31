@@ -21,10 +21,9 @@
 <br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=39FF14&labelColor=111111&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=14532D&labelColor=050505&style=for-the-badge"
   alt="Profile views"
 />
-
 </div>
 
 <img src="assets/pillars.svg" width="100%" alt="Core ideas: Full-Stack, AI Builder, Problem Solver, Real-Time"/>
