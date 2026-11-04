@@ -37,8 +37,7 @@
 
   <!-- Status text -->
   <text x="40" y="44" font-size="22" fill="#E6EDF3">
-    <tspan fill="#4285F4" font-weight="700">SLEEP.exe</tspan>
-    <tspan fill="#E6EDF3"> NOT FOUND</tspan>
+    <tspan fill="#4285F4" font-weight="700">COMMIT.exe IN PROGRESS</tspan>
   </text>
 
   <!-- Animated track -->
