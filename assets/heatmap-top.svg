@@ -36,11 +36,11 @@
 
   <!-- Header -->
   <text x="40" y="56" font-size="28" font-weight="700"
-        fill="#FFFFFF" letter-spacing="2">THE GRIND MATRIX</text>
+        fill="#FFFFFF" letter-spacing="2">CONTRIBUTION ACTIVITY</text>
 
   <text x="1160" y="54" text-anchor="end"
         font-size="22" font-weight="700" fill="#34A853">
-    ● CURRENTLY GRINDING
+    ● ACTIVE DEVELOPMENT
     <animate attributeName="opacity" values="1;.2;1"
              dur="1.4s" repeatCount="indefinite"/>
   </text>
