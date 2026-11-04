@@ -1,9 +1,10 @@
-<div align="center">
+ <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Tanmay Chauhan - Full-Stack Developer, AI Builder, Problem Solver"/>
+<img src="assets/banner.svg" width="100%" alt="Tanmay Chauhan - Full-Stack Developer, AI Developer, Problem Solver"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=39FF14&background=050505&center=true&vCenter=true&width=760&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;Building+full-stack+products+and+AI+tools;Turning+ideas+into+working+software;Currently+debugging+something+interesting+%F0%9F%90%9B" alt="Animated typing intro"/>
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4285F4&background=0D1117&center=true&vCenter=true&width=760&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+and+Practical+Solutions;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
+
+<br/>
 
 <a href="https://github.com/TanmayChauhan123">
   <img src="assets/github-badge.svg" width="165" height="30" alt="GitHub"/>
@@ -18,71 +19,89 @@
   <img src="assets/portfolio-badge.svg" width="165" height="30" alt="Portfolio"/>
 </a>
 
-<br>
+<br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=14532D&labelColor=050505&style=for-the-badge"
-  alt="Profile views"
-/>
-</div>
-
-<img src="assets/pillars.svg" width="100%" alt="Core ideas: Full-Stack, AI Builder, Problem Solver, Real-Time"/>
+<img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=4285F4&labelColor=0D1117&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<br>
+<img src="assets/pillars.svg" width="100%" alt="Full-Stack Development, AI, Problem Solving, Real-Time Systems"/>
 
-<img src="assets/section-whoami.svg" width="100%" alt="whoami"/>
+<br/>
 
-I'm **Tanmay Chauhan**, a developer who turns caffeine, curiosity, and questionable debugging decisions into working software.
+<img src="assets/section-whoami.svg" width="100%" alt="About Me"/>
 
-- ⚡ **Full-stack:** Making frontend and backend pretend to get along.
-- 🤖 **AI:** Teaching machines to do things I haven't figured out myself.
-- 🧩 **Problem solving:** Collecting DSA problems like unfinished side quests.
-- 🛠️ **Craft:** Breaking things, fixing them, and calling it development.
+## About Me
 
-> `IT WORKS ON MY MACHINE. SHIPPING ANYWAY.`
+I'm **Tanmay Chauhan**, a developer interested in building practical software solutions through full-stack development, artificial intelligence, and problem solving.
+
+I enjoy exploring new technologies, understanding how systems work, and turning ideas into functional applications.
+
+- 💻 **Full-Stack Development:** Building responsive applications and scalable backend systems.
+- 🤖 **Artificial Intelligence:** Exploring Generative AI, RAG systems, and AI-powered applications.
+- 🧩 **Problem Solving:** Strengthening data structures, algorithms, and computational thinking.
+- ⚙️ **Engineering:** Focusing on clean code, system design, and practical implementation.
+
+> **Learn continuously. Build thoughtfully. Improve consistently.**
 
 <details>
-<summary><b>🔎 More about me</b></summary>
-<br>
+<summary><b>More About Me</b></summary>
+<br/>
 
-- 🌱 **Currently exploring:** New technologies and old debugging mistakes
-- 🤝 **Interested in:** Open source, internships, and building cool stuff
-- 💬 **Ask me about:** React, Node.js, APIs, and why my code works
-- 🎯 **Current mission:** Turning caffeine into commits and ideas into products
+- 🌱 **Currently exploring:** AI engineering, backend development, and system design.
+- 🤝 **Interested in:** Open-source contributions, internships, and collaborative projects.
+- 💬 **Technologies I work with:** React, Node.js, TypeScript, C++, Python, and databases.
+- 🎯 **Current focus:** Building meaningful projects and improving my software engineering skills.
 
 </details>
 
-<br>
+<br/>
 
-<img src="assets/section-toolbox.svg" width="100%" alt="toolbox"/>
+<img src="assets/section-toolbox.svg" width="100%" alt="Technology Stack"/>
+
+## Technology Stack
 
 <div align="center">
 
-**💻 Languages I Speak (Mostly to Computers)**<br>
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark"/>
 
-**🎨 Making Pixels Behave**<br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/>
+<br/>
 
-**⚙️ Behind the Scenes**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres&theme=dark" alt="Node.js, Express, NestJS, MongoDB, PostgreSQL"/>
+**Frontend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 
-**🧰 My Digital Toolbox**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Postman"/>
+<br/>
 
-**🧠 Teaching Machines & Fighting Problems**<br>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-RAG%20%7C%20Ollama%20%7C%20scikit--learn-111111?style=for-the-badge&logo=python&logoColor=39FF14" alt="AI and machine learning"/>
-<img src="https://img.shields.io/badge/Practising-DSA%20%7C%20Problem%20Solving-111111?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="Data structures and algorithms"/>
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres&theme=dark"/>
+
+<br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark"/>
+
+<br/>
+
+**AI & Problem Solving**
+<br/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-RAG%20%7C%20Ollama%20%7C%20scikit--learn-4285F4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-34A853?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
-<br>
+<br/>
 
-<img src="assets/section-builds.svg" width="100%" alt="featured builds"/>
+<img src="assets/section-builds.svg" width="100%" alt="Featured Projects"/>
+
+## Featured Projects
 
 <div align="center">
+
 <img src="assets/card-1.svg" width="49%" alt="QueueLess"/>
 <img src="assets/card-2.svg" width="49%" alt="DevSync"/>
 <img src="assets/card-3.svg" width="49%" alt="ChessArena"/>
@@ -91,15 +110,20 @@ I'm **Tanmay Chauhan**, a developer who turns caffeine, curiosity, and questiona
 <img src="assets/card-6.svg" width="49%" alt="InsightPulse"/>
 <img src="assets/card-7.svg" width="49%" alt="HabitMind"/>
 <img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/>
-<br><br>
+
+<br/><br/>
+
 <a href="https://github.com/TanmayChauhan123?tab=repositories">
   <img src="assets/explore-repositories.svg" alt="Explore all repositories"/>
 </a>
+
 </div>
 
-<br>
+<br/>
 
-<img src="assets/section-telemetry.svg" width="100%" alt="github telemetry"/>
+<img src="assets/section-telemetry.svg" width="100%" alt="GitHub Statistics"/>
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -107,42 +131,51 @@ I'm **Tanmay Chauhan**, a developer who turns caffeine, curiosity, and questiona
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanmayChauhan123&theme=github_dark" alt="Most used languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=050505&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=0D1117&ring=4285F4&fire=EA4335&currStreakLabel=4285F4&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=34A853&dates=C9D1D9" alt="GitHub contribution streak"/>
 
-<br/>
 </div>
 
-<br>
+<br/>
 
-<img src="assets/section-heatmap.svg" width="100%" alt="commit heatmap"/>
+<img src="assets/section-heatmap.svg" width="100%" alt="Contribution Activity"/>
 
 <div align="center">
+
 <img src="assets/heatmap-top.svg" width="100%" alt="Contribution matrix header"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanmayChauhan123/TanmayChauhan123/output/snake-neon.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanmayChauhan123/TanmayChauhan123/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/TanmayChauhan123/TanmayChauhan123/output/snake-neon.svg" width="100%" alt="Animated snake eating my GitHub contribution squares"/>
+  <img src="https://raw.githubusercontent.com/TanmayChauhan123/TanmayChauhan123/output/snake-neon.svg" width="100%" alt="GitHub contribution activity animation"/>
 </picture>
-<img src="assets/heatmap-bottom.svg" width="100%" alt="Snake status bar"/>
+
+<img src="assets/heatmap-bottom.svg" width="100%" alt="Contribution activity footer"/>
+
 </div>
 
-<br>
+<br/>
 
-<img src="assets/section-buildlog.svg" width="100%" alt="build log"/>
+<img src="assets/section-buildlog.svg" width="100%" alt="Current Focus"/>
+
+## Current Focus
 
 ```text
-LOOPZERO / SIDE QUESTS
-[01] Making features work (eventually)
-[02] Fighting bugs that weren't there yesterday
-[03] Teaching LLMs to follow instructions
-[04] Solving DSA problems instead of sleeping
+DEVELOPMENT / LEARNING ROADMAP
+
+[01] Building full-stack applications
+[02] Exploring Generative AI and RAG architectures
+[03] Strengthening Data Structures and Algorithms
+[04] Learning system design and backend engineering
+[05] Contributing to practical and open-source projects
 ```
 
-<br>
+<br/>
 
-<img src="assets/section-connect.svg" width="100%" alt="connect"/>
+<img src="assets/section-connect.svg" width="100%" alt="Connect With Me"/>
+
+## Connect With Me
 
 <div align="center">
 
@@ -158,4 +191,4 @@ LOOPZERO / SIDE QUESTS
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Build, test, debug, ship, repeat"/>
+<img src="assets/footer.svg" width="100%" alt="Learn, Build, Improve, Repeat"/>
