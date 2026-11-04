@@ -1,27 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
-  <rect width="220" height="40" rx="7" fill="#0D1117"/>
-  <rect x="0.5" y="0.5" width="219" height="39" rx="6.5"
-        fill="none" stroke="#30363D"/>
-
-  <!-- Email icon -->
+  <!-- Gmail Icon -->
   <rect x="11" y="10" width="23" height="18" rx="4"
-        fill="#111820" stroke="#4285F4" stroke-width="1.5"/>
-  <path d="M13 13L22.5 20L32 13"
-        fill="none" stroke="#8AB4F8" stroke-width="1.8"
+        fill="#111820" stroke="#30363D" stroke-width="1"/>
+
+  <path d="M12.5 13L22.5 20.5L32.5 13"
+        fill="none" stroke="#EA4335" stroke-width="2.2"
         stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M13 25L19 20.5M32 25L26 20.5"
-        fill="none" stroke="#34A853" stroke-width="1.5"
+
+  <path d="M12.5 13V26"
+        fill="none" stroke="#4285F4" stroke-width="2.2"
         stroke-linecap="round"/>
 
-  <path d="M41 11V29" stroke="#30363D" stroke-width="1"/>
+  <path d="M32.5 13V26"
+        fill="none" stroke="#34A853" stroke-width="2.2"
+        stroke-linecap="round"/>
 
-  <g font-family="Arial,sans-serif" font-size="11.5"
-     font-weight="700" letter-spacing="1">
-    <text x="50" y="24" fill="#FFFFFF">EMAIL</text>
-    <text x="105" y="24" fill="#8AB4F8">CONTACT</text>
-  </g>
+  <path d="M12.5 26H16"
+        fill="none" stroke="#FBBC05" stroke-width="2.2"
+        stroke-linecap="round"/>
 
-  <path d="M202 16L207 20L202 24"
-        fill="none" stroke="#4285F4" stroke-width="1.8"
-        stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+  <path d="M29 26H32.5"
+        fill="none" stroke="#EA4335" stroke-width="2.2"
+        stroke-linecap="round"/>
