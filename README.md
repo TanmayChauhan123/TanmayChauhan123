@@ -102,14 +102,34 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 
 <div align="center">
 
-<img src="assets/card-1.svg" width="49%" alt="QueueLess"/>
-<img src="assets/card-2.svg" width="49%" alt="DevSync"/>
-<img src="assets/card-3.svg" width="49%" alt="ChessArena"/>
-<img src="assets/card-4.svg" width="49%" alt="PrepForge"/>
-<img src="assets/card-5.svg" width="49%" alt="RAG-Pilot"/>
-<img src="assets/card-6.svg" width="49%" alt="InsightPulse"/>
-<img src="assets/card-7.svg" width="49%" alt="HabitMind"/>
-<img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/>
+<div align="center">
+
+<a href="https://github.com/TanmayChauhan123/QueueLess">
+  <img src="assets/card-1.svg" width="49%" alt="QueueLess"/>
+</a>
+<a href="https://github.com/TanmayChauhan123/DevSync">
+  <img src="assets/card-2.svg" width="49%" alt="DevSync"/>
+</a>
+<a href="https://github.com/TanmayChauhan123/ChessArena">
+  <img src="assets/card-3.svg" width="49%" alt="ChessArena"/>
+</a>
+<a href="https://github.com/TanmayChauhan123/PrepForge">
+  <img src="assets/card-4.svg" width="49%" alt="PrepForge"/>
+</a>
+<a href="YOUR_RAG_PILOT_REPOSITORY_URL">
+  <img src="assets/card-5.svg" width="49%" alt="RAG-Pilot"/>
+</a>
+<a href="https://github.com/TanmayChauhan123/InsightPulse">
+  <img src="assets/card-6.svg" width="49%" alt="InsightPulse"/>
+</a>
+<a href="https://github.com/TanmayChauhan123/HabitMind">
+  <img src="assets/card-7.svg" width="49%" alt="HabitMind"/>
+</a>
+<a href="https://github.com/TanmayChauhan123/Credit_Card_Fraud_Detection">
+  <img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/>
+</a>
+
+</div>
 
 <br/><br/>
 
