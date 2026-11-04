@@ -116,7 +116,7 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 <a href="https://github.com/TanmayChauhan123/PrepForge">
   <img src="assets/card-4.svg" width="49%" alt="PrepForge"/>
 </a>
-<a href="YOUR_RAG_PILOT_REPOSITORY_URL">
+<a href="https://github.com/TanmayChauhan123/RAG-Pilot">
   <img src="assets/card-5.svg" width="49%" alt="RAG-Pilot"/>
 </a>
 <a href="https://github.com/TanmayChauhan123/InsightPulse">
