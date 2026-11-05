@@ -31,8 +31,6 @@
 
 <img src="assets/section-whoami.svg" width="100%" alt="About Me"/>
 
-## About Me
-
 I'm **Tanmay Chauhan**, a developer interested in building practical software solutions through full-stack development, artificial intelligence, and problem solving.
 
 I enjoy exploring new technologies, understanding how systems work, and turning ideas into functional applications.
@@ -58,8 +56,6 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 <br/>
 
 <img src="assets/section-toolbox.svg" width="100%" alt="Technology Stack"/>
-
-## Technology Stack
 
 <div align="center">
 
@@ -97,8 +93,6 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 <br/>
 
 <img src="assets/section-builds.svg" width="100%" alt="Featured Projects"/>
-
-## Featured Projects
 
 <div align="center">
 
@@ -143,8 +137,6 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 
 <img src="assets/section-telemetry.svg" width="100%" alt="GitHub Statistics"/>
 
-## GitHub Statistics
-
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanmayChauhan123&theme=github_dark" alt="GitHub statistics"/>
@@ -179,8 +171,6 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 
 <img src="assets/section-buildlog.svg" width="100%" alt="Current Focus"/>
 
-## Current Focus
-
 ```text
 DEVELOPMENT / LEARNING ROADMAP
 
@@ -194,8 +184,6 @@ DEVELOPMENT / LEARNING ROADMAP
 <br/>
 
 <img src="assets/section-connect.svg" width="100%" alt="Connect With Me"/>
-
-## Connect With Me
 
 <div align="center">
 
