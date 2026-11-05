@@ -119,7 +119,7 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 <a href="https://github.com/TanmayChauhan123/HabitMind">
   <img src="assets/card-7.svg" width="49%" alt="HabitMind"/>
 </a>
-<a href="https://github.com/TanmayChauhan123/Credit_Card_Fraud_Detection">
+<a href="https://github.com/TanmayChauhan123/Credit-Card-Fraud-Detection">
   <img src="assets/card-8.svg" width="49%" alt="Credit Card Fraud Detection"/>
 </a>
 
