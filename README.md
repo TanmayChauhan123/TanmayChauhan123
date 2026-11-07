@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4285F4&background=0D1117&center=true&vCenter=true&width=760&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+and+Practical+Solutions;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
 
-<br/>
+
 
 <a href="https://github.com/TanmayChauhan123">
   <img src="assets/github-badge.svg" width="165" height="30" alt="GitHub"/>
