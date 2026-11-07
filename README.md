@@ -144,9 +144,6 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanmayChauhan123&theme=github_dark" alt="Most used languages"/>
 
 <br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=TanmayChauhan123&hide_border=true&background=0D1117&ring=4285F4&fire=EA4335&currStreakLabel=4285F4&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=34A853&dates=C9D1D9" alt="GitHub contribution streak"/>
-
 </div>
 
 <br/>
