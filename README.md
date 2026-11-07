@@ -125,7 +125,7 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 
 </div>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/TanmayChauhan123?tab=repositories">
   <img src="assets/explore-repositories.svg" alt="Explore all repositories"/>
@@ -145,8 +145,6 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 
 <br/>
 </div>
-
-<br/>
 
 <img src="assets/section-heatmap.svg" width="100%" alt="Contribution Activity"/>
 
