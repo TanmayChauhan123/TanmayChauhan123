@@ -130,6 +130,7 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 <a href="https://github.com/TanmayChauhan123?tab=repositories">
   <img src="assets/explore-repositories.svg" alt="Explore all repositories"/>
 </a>
+<br/>
 
 </div>
 
