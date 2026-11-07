@@ -23,6 +23,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=4285F4&labelColor=0D1117&style=for-the-badge" alt="Profile views"/>
 
+
+<br/>
 </div>
 
 <img src="assets/pillars.svg" width="100%" alt="Full-Stack Development, AI, Problem Solving, Real-Time Systems"/>
