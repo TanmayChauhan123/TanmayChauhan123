@@ -26,6 +26,7 @@
 
 <br/>
 </div>
+<br/>
 
 <img src="assets/pillars.svg" width="100%" alt="Full-Stack Development, AI, Problem Solving, Real-Time Systems"/>
 
@@ -148,6 +149,7 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 
 <br/>
 </div>
+<br/>
 
 <img src="assets/section-heatmap.svg" width="100%" alt="Contribution Activity"/>
 
