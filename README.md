@@ -143,7 +143,7 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanmayChauhan123&theme=github_dark" alt="Most used languages"/>
 
-<br/><br/>
+<br/>
 </div>
 
 <br/>
