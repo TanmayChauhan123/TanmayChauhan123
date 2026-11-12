@@ -19,7 +19,7 @@
   <img src="assets/portfolio-badge.svg" width="165" height="30" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=TanmayChauhan123&label=PROFILE%20VIEWS&color=4285F4&labelColor=0D1117&style=for-the-badge" alt="Profile views"/>
 
